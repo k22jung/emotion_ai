@@ -18,4 +18,8 @@
 
 ## Running
 
-Obtain required [Microsoft Azure](https://azure.microsoft.com/en-ca/try/cognitive-services/?api=emotion-api) and [Spotify](https://developer.spotify.com/web-api/) keys and run main.py.
+### Hardware Requirements
+You will need to obtain a [servo pan & tilt](https://www.creatroninc.com/product/servo-motor-pan-tilt-bracket/) and [servos](https://www.creatroninc.com/product/servo-motor-44kgcm/) which I found here.You will also need a [Pi camera](https://www.creatroninc.com/product/noir-camera-board-for-raspberry-pi/?search_query=Pi+camera&results=12) and an external 4 AA battery pack.
+
+### Software Requirements
+Obtain required [Microsoft Azure](https://azure.microsoft.com/en-ca/try/cognitive-services/?api=emotion-api) and [Spotify](https://developer.spotify.com/web-api/) keys and run main.py. 
