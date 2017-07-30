@@ -6,8 +6,6 @@ The Emotion AI project identifies a user's facial expressions and emotions and r
 <img src="https://github.com/k22jung/emotion_ai/blob/master/pi_camera_gimbal.jpg">
 </p>
 
-![Pi_Camera_Gimbal](https://github.com/k22jung/emotion_ai/blob/master/pi_camera_gimbal.jpg)
-
 ## Dependencies
 
 - [OpenCV 3.2.0](http://opencv.org/releases.html)
