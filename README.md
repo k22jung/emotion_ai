@@ -16,7 +16,7 @@
 - json
 - spotipy
 
-
+<br />
 ## Running
 
 ### Hardware Requirements
