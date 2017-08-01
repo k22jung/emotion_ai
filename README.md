@@ -14,9 +14,9 @@
 ### Python Packages:
 - numPy
 - json
-- spotipy
-<br>
-<br />
+- spotipy <br />
+
+
 ## Running
 
 ### Hardware Requirements
