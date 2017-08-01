@@ -14,7 +14,9 @@
 ### Python Packages:
 - numPy
 - json
-- spotipy <br />
+- spotipy__
+
+
 
 
 ## Running
